@@ -4,9 +4,8 @@ Modelo creado con ML para clasificar flores Iris
 📝 Descripción
 Una aplicación creada para la clasificacion de flores Iris segun su tallo y sus petalos
 
-image
+image ![image](https://github.com/user-attachments/assets/9916ef0a-4127-4414-8fee-bc4d2463372b)
 
-image
 
 ✨ Características
 -🪷 Puede clasificar flores segun la longitud de su petalo y el ancho de su tallo 
