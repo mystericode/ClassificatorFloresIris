@@ -6,6 +6,10 @@ Una aplicación creada para la clasificacion de flores Iris segun su tallo y sus
 
 image ![image](https://github.com/user-attachments/assets/9916ef0a-4127-4414-8fee-bc4d2463372b)
 
+image ![image](https://github.com/user-attachments/assets/fcf9b9ad-0018-4522-bd81-1d3c5ab2599f)
+
+image ![image](https://github.com/user-attachments/assets/8455a4c3-a9e4-4e1a-90fb-fb08c8330de2)
+
 
 ✨ Características
 -🪷 Puede clasificar flores segun la longitud de su petalo y el ancho de su tallo 
